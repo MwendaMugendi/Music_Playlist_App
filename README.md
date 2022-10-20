@@ -1,2 +1,4 @@
-# Music Playlist App
- ## Django Learning Series
+# Django Learning Series
+
+## Music Playlist App
+ 
