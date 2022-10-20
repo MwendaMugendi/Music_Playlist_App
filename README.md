@@ -1,2 +1,2 @@
-# Music_Playlist_App
+# Music Playlist App
  ## Django Learning Series
